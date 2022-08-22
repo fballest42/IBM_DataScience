@@ -63,5 +63,5 @@ print(A.shape)
 
 A = np.array([[1,2],[3,4],[5,6],[7,8]])
 B = np.array([[1,2,3],[4,5,6],[7,8,9]])
-np.dot(A,B)
+print(np.dot(A,B))
 
