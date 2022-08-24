@@ -55,13 +55,15 @@ import numpy as np
 
 ######## MODULE 6 VIDEO 2
 
-a = [[11,12,13],[21,22,23],[31,32,33]]
-A = np.array(a)
-print(A.ndim)
-print(A.shape)
+# a = [[0,1,0,1,0]]
+# A = np.array(a)
+# print(A.ndim)
+# print(A.shape)
 
 
-A = np.array([[1,2],[3,4],[5,6],[7,8]])
-B = np.array([[1,2,3],[4,5,6],[7,8,9]])
+A = np.array([0,1])
+B = np.array([1,0])
 print(np.dot(A,B))
 
+a=np.array([1,1,1,1,1])
+print(a+10)
