@@ -46,12 +46,12 @@ import numpy as np
 # y = np.sin(x)
 # print(y)
 
-# x = np.linspace(0,2*np.pi,100)
-# y = np.sin(x)
-# import matplotlib.pyplot as plt  #libreria de python para crear gráficos
-# fig = plt.figure() #genera una variable para almacenar la imagen
-# plt.plot(x,y)      #genera la imagen con los datos indicados 
-# fig.savefig('temp.png', dpi=fig.dpi)  #crea un archivo con la figura
+x = np.linspace(0,2*np.pi,100)
+y = np.sin(x)
+import matplotlib.pyplot as plt  #libreria de python para crear gráficosNme
+fig = plt.figure() #genera una variable para almacenar la imagen
+plt.plot(x,y)      #genera la imagen con los datos indicados 
+fig.savefig('temp.png', dpi=fig.dpi)  #crea un archivo con la figura
 
 ######## MODULE 6 VIDEO 2
 
@@ -61,9 +61,9 @@ import numpy as np
 # print(A.shape)
 
 
-A = np.array([0,1])
-B = np.array([1,0])
-print(np.dot(A,B))
+# A = np.array([0,1])
+# B = np.array([1,0])
+# print(np.dot(A,B))
 
-a=np.array([1,1,1,1,1])
-print(a+10)
+# a=np.array([1,1,1,1,1])
+# print(a+10)
