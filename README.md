@@ -31,5 +31,6 @@
 #### All the exercises of the course are doing in their own Jupyter-based lab environment. So in the exercises folder you only find one that I prefer to solve it out of Jupyter lab because the use and creation of files on Jupyter have a bug so I must work on it offline and upload the solution.
 
 ### GRADED:
+#### Here is the percentages notes of each module, the final exam. and the final grade percentage.
 ![](progress.png)
 
