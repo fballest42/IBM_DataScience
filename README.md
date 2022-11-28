@@ -3,6 +3,7 @@
 
 ### ![](Logo-IBM.png)
 
+
 ### If you are interested in this course, it is avalable [here](https://cognitiveclass.ai/courses/python-for-data-science).
 
 ### CERTIFICATION:
