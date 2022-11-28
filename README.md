@@ -20,7 +20,9 @@
 
 ### PREREQUISITES:
 
-#### - Familiarity with Jupyter Notebooks
+
+#### - Familiarity with Jupyter Notebooks
+
 
 ### RECOMMENDED SKILLS PRIOR TO TAKING THIS COURSE:
 
